@@ -10,14 +10,13 @@ An end-to-end Power BI project: cleaning a raw airline ticketing export in Power
 ## 📊 Dashboard
 
 ### Page 1 — Revenue & Route Performance
-![Revenue & Routes](screenshots/page1_revenue_routes.png)
+![Revenue & Routes](page1_revenue_routes.png)
 
 ### Page 2 — Customer & Channel Behavior
-![Customer & Channel](screenshots/page2_customer_channel.png)
+![Customer & Channel](page2_customer_channel.png)
 
 ### Page 3 — Booking Status & Trends
-![Status & Trends](screenshots/page3_status_trends.png)
-
+![Status & Trends](page3_status_trends.png)
 ---
 
 ## 🧹 Data Cleaning (Power Query)
@@ -37,7 +36,7 @@ An end-to-end Power BI project: cleaning a raw airline ticketing export in Power
 
 ## 🗂️ Data Model
 
-![Data Model](screenshots/data_model.png)
+![Data Model](data_model.png)
 
 - Star schema: `Fact_TicketSales` with `Dim_Customer`, `Dim_Airport` and `Dim_Date`
 - All relationships are one-to-many with single-direction filtering
