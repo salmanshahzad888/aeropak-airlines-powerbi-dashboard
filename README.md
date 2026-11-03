@@ -10,13 +10,17 @@ An end-to-end Power BI project: cleaning a raw airline ticketing export in Power
 ## 📊 Dashboard
 
 ### Page 1 — Revenue & Route Performance
+
 ![Revenue & Routes](page1_revenue_routes.png)
 
 ### Page 2 — Customer & Channel Behavior
+
 ![Customer & Channel](page2_customer_channel.png)
 
 ### Page 3 — Booking Status & Trends
+
 ![Status & Trends](page3_status_trends.png)
+
 ---
 
 ## 🧹 Data Cleaning (Power Query)
@@ -64,6 +68,8 @@ An end-to-end Power BI project: cleaning a raw airline ticketing export in Power
 |---|---|
 | `AeroPak Sales Dashboard.pbix` | Power BI file: cleaned data, model and dashboard |
 | `AeroPak Sales Findings Report.pdf` | Findings report: assumptions, insights and recommendations |
+
+---
 
 ## 👤 Author
 
