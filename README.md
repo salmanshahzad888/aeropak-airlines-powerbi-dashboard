@@ -62,8 +62,8 @@ An end-to-end Power BI project: cleaning a raw airline ticketing export in Power
 
 | File | Description |
 |---|---|
-| `AeroPak_Sales_Dashboard.pbix` | Power BI file: cleaned data, model and dashboard |
-| `AeroPak_Sales_Findings_Report.pdf` | Findings report: assumptions, insights and recommendations |
+| `AeroPak Sales Dashboard.pbix` | Power BI file: cleaned data, model and dashboard |
+| `AeroPak Sales Findings Report.pdf` | Findings report: assumptions, insights and recommendations |
 
 ## 👤 Author
 
