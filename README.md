@@ -75,6 +75,5 @@ An end-to-end Power BI project: cleaning a raw airline ticketing export in Power
 
 **Salman Shahzad** — Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/salmanshahzad888)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-salmanshahzad888-0A66C2?logo=linkedin)](https://www.linkedin.com/in/salmanshahzad888)
 [![GitHub](https://img.shields.io/badge/GitHub-salmanshahzad888-181717?logo=github)](https://github.com/salmanshahzad888)
